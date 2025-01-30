@@ -1,6 +1,6 @@
 # Senior Citizens | Project きく 
-- Mauricio Lara
 - Mauro Chavez
+- Mauricio Lara
 - Sean Regan
 - Zackary Elmottalib
   
