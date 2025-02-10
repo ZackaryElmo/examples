@@ -14,7 +14,7 @@ const ExampleOffcanvas: React.FC<ExampleOffcanvasProps> = ({ className }) => {
   return (
     <>
       <Button onClick={() => setShow((s) => !s)} className={className}>
-        Toggle offcanvas
+        Login
       </Button>
       <Offcanvas placement="end" show={show} onHide={() => setShow(false)}>
         <Offcanvas.Header closeButton>
